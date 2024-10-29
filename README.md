@@ -7,7 +7,6 @@
 - **Naive Bayes**
 - **KNN**
 - **Decision Tree**
-- **Hopfield Neural Networks**
 
 ## Projects
 - **Handson_ml2__Chapter_2**
