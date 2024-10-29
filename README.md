@@ -11,4 +11,5 @@
 ## Projects
 - **Handson_ml2__Chapter_2**
 - **Handson_ml2__Chapter_3**
-- **Titanic Dataset**
+- **Titanic - Machine Learning from Disaster**
+- **Mercury prediction**
