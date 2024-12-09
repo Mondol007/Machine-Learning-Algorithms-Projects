@@ -10,7 +10,6 @@
 
 ## Projects
 - **Handson_ml2__Chapter_2**
-- **Handson_ml2__Chapter_3**
 - **Titanic - Machine Learning from Disaster**
 - **Mercury prediction**
 - **Sentiment Analysis with Naive Bayes**
